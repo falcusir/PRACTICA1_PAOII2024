@@ -3,3 +3,4 @@ fer: Hola cómo están?
 1. Primera frase del día
 2. Segunda frase: POO
 3. Tercera Frase: Práctica de Git
+Fer: Hoy es Viernes y hace calor!!!
