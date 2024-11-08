@@ -1,2 +1,4 @@
 Versionamiento: 
 Para mi el versionamiento es como una copia que ayuda a identificar las nuevas actualizaciones, características, y correcciones de cada proyecto.
+
+Reflexión:
