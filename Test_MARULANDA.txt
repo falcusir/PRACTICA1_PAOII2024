@@ -17,3 +17,6 @@ Estilo o manera de hacer algo.Es la forma de gestionar la información lógica
 	- Polimorfismo
 
 6)¿Qué es la abstracción?
+Tomar lo importante para interpretarlo en objetos y clases 
+
+7)¿Qué es la herencia?
