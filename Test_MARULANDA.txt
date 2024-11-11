@@ -11,3 +11,9 @@ Permite guardar o almacenar valores de una sumatoria de alguna fórmula.
 Estilo o manera de hacer algo.Es la forma de gestionar la información lógica
 
 5)¿Cuáles son los principios de la programación orientada a objetos?
+	- Abstracción
+	- Herencia
+	- Encapsulamiento
+	- Polimorfismo
+
+6)¿Qué es la abstracción?
