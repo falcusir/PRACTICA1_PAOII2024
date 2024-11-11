@@ -33,4 +33,5 @@ Son las varias formas que un objeto toma dentro de una estructura.
 -Clasificar, agrupar, ordenar.
 -Depende de lo que voy hacer.
 -Personas
+11)¿Qué es un objeto? 
 
