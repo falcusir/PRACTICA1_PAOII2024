@@ -58,3 +58,6 @@ git fetch
 git pull
 
 18) ¿Cuál es el comando para cambiarse de rama?
+git checkout "nombre de la rama "
+ 19) que es git ?
+
