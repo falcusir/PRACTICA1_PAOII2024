@@ -49,6 +49,9 @@ Los métodos operan sobre los datos de un objeto, es decir, sus atributos, y pue
 15) ¿Cuáles son lo tipo de herencia ?
 Hay herencia simple, múltiple y jerárquica
 
-16) ¿Cuál es el comando para subir un archivo en gitHut?
+16) ¿Cuál es el comando para subir un archivo en GitHub?
+git add 
+
+17) ¿Cuál es el comando para descargar información?
 
 
