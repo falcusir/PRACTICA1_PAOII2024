@@ -33,5 +33,9 @@ Son las varias formas que un objeto toma dentro de una estructura.
 -Clasificar, agrupar, ordenar.
 -Depende de lo que voy hacer.
 -Personas
+
 11)¿Qué es un objeto? 
+Es una instancia, es una copia de la clase pero posee información específica
+
+12)¿Los atributos de un objeto son públicos o privados?
 
