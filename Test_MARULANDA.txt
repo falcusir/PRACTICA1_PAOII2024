@@ -41,4 +41,8 @@ Es una instancia, es una copia de la clase pero posee información específica
 Los atributos de un objeto son privados 
 
 13) ¿Qué contiene una clase?
+Una clase tiene Nombre, Atributos y métodos
+
+14)¿Qué es un método?
+
 
