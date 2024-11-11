@@ -1,2 +1,4 @@
 1)¿Qué es una variable?
 Es un espacio en memoria RAM, es decir es un espacio temporal
+
+2)¿Qué tipos de variables hay?
