@@ -38,4 +38,7 @@ Son las varias formas que un objeto toma dentro de una estructura.
 Es una instancia, es una copia de la clase pero posee información específica
 
 12)¿Los atributos de un objeto son públicos o privados?
+Los atributos de un objeto son privados 
+
+13) ¿Qué contiene una clase?
 
