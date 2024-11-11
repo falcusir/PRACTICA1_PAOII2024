@@ -56,3 +56,5 @@ git add
 
 git fetch
 git pull
+
+18) ¿Cuál es el comando para cambiarse de rama?
