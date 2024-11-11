@@ -47,5 +47,8 @@ Una clase tiene Nombre, Atributos y métodos
 Los métodos operan sobre los datos de un objeto, es decir, sus atributos, y pueden modificar el estado del objeto o realizar acciones específicas.
  
 15) ¿Cuáles son lo tipo de herencia ?
+Hay herencia simple, múltiple y jerárquica
+
+16) ¿Cuál es el comando para subir un archivo en gitHut?
 
 
