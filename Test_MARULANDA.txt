@@ -29,3 +29,8 @@ Propiedad que permite dar un nivel de seguridad a la información por permisos d
 Son las varias formas que un objeto toma dentro de una estructura.
 
 10) ¿Qué es una clase?
+-Estructura general, global que agrupar o representa un conjunto de objetos.
+-Clasificar, agrupar, ordenar.
+-Depende de lo que voy hacer.
+-Personas
+
