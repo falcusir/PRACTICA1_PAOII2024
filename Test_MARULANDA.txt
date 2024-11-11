@@ -44,5 +44,8 @@ Los atributos de un objeto son privados
 Una clase tiene Nombre, Atributos y métodos
 
 14)¿Qué es un método?
+Los métodos operan sobre los datos de un objeto, es decir, sus atributos, y pueden modificar el estado del objeto o realizar acciones específicas.
+ 
+15) ¿Cuáles son lo tipo de herencia ?
 
 
