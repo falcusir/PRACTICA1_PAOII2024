@@ -22,4 +22,7 @@ Tomar lo importante para interpretarlo en objetos y clases
 7)¿Qué es la herencia?
 Es mutar el código para transferir la información de manera estratégica
 
-¿Qué es el encapsulamiento?
+8)Qué es el encapsulamiento?
+Popiedad que permite dar un nivel de seguridad a la información por permisos de acceso 
+
+9)¿Qué es el polimorfismo?
