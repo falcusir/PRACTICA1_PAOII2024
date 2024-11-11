@@ -54,4 +54,5 @@ git add
 
 17) ¿Cuál es el comando para descargar información?
 
-
+git fetch
+git pull
