@@ -23,6 +23,9 @@ Tomar lo importante para interpretarlo en objetos y clases
 Es mutar el código para transferir la información de manera estratégica
 
 8)Qué es el encapsulamiento?
-Popiedad que permite dar un nivel de seguridad a la información por permisos de acceso 
+Propiedad que permite dar un nivel de seguridad a la información por permisos de acceso 
 
 9)¿Qué es el polimorfismo?
+Son las varias formas que un objeto toma dentro de una estructura.
+
+10) ¿Qué es una clase?
