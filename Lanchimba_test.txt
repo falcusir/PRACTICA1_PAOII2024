@@ -26,3 +26,4 @@ Es mutar el código para transferir la información de manera estratégica
 
 
 8)Qué es el encapsulamiento?
+Propiedad que permite dar un nivel de seguridad a la información por permisos de acceso 
