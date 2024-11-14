@@ -1,2 +1,4 @@
 Preguntas Fernanda
 1)¿Qué es una variable?
+Es un espacio en memoria RAM, es decir es un espacio temporal
+
