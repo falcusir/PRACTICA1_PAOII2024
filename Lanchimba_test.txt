@@ -22,3 +22,4 @@ Estilo o manera de hacer algo. Es la forma de gestionar la información lógica
 Tomar lo importante para interpretarlo en objetos y clases 
 
 7)¿Qué es la herencia?
+Es mutar el código para transferir la información de manera estratégica
