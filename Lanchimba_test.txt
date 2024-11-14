@@ -7,3 +7,5 @@ Pueden ser variables acumuladoras, auxiliares y constantes
 
 3)¿Qué es una variable acumuladora?
 Permite guardar o almacenar valores de una sumatoria de alguna fórmula.
+
+4)¿Qué es un paradigma?
