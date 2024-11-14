@@ -23,3 +23,6 @@ Tomar lo importante para interpretarlo en objetos y clases
 
 7)¿Qué es la herencia?
 Es mutar el código para transferir la información de manera estratégica
+
+
+8)Qué es el encapsulamiento?
