@@ -58,3 +58,7 @@ git fetch
 git pull
 
 18) ¿Cuál es el comando para cambiarse de rama?
+
+19) ¿Qué es Git?
+Es un lenguaje de versionamiento
+
