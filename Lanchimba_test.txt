@@ -32,3 +32,4 @@ Propiedad que permite dar un nivel de seguridad a la información por permisos d
 Propiedad que permite dar un nivel de seguridad a la información por permisos de acceso 
 
 10) ¿Qué es una clase?
+Es una estructura general, global que agrupa o representa un conjunto de objetos.
