@@ -29,3 +29,4 @@ Es mutar el código para transferir la información de manera estratégica
 Propiedad que permite dar un nivel de seguridad a la información por permisos de acceso 
 
 9)¿Qué es el polimorfismo?
+Propiedad que permite dar un nivel de seguridad a la información por permisos de acceso 
