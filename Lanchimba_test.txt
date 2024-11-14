@@ -5,3 +5,4 @@ Es un espacio en memoria RAM, es decir es un espacio temporal
 2)¿Qué tipos de variables hay?
 Pueden ser variables acumuladoras, auxiliares y constantes
 
+3)¿Qué es una variable acumuladora?
