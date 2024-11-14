@@ -16,3 +16,6 @@ Estilo o manera de hacer algo. Es la forma de gestionar la información lógica
 	- Herencia
 	- Encapsulamiento
 	- Polimorfismo
+
+
+6)¿Qué es la abstracción?
